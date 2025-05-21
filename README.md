@@ -1,3 +1,4 @@
+Self: Zack Roland 
 
 1. Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 Option 1. The whole point of automated tests is so that they run automatically and often to ensure the quality of your code. Having these tests within a Github action will that runs whenever code is pushed will allow is to maintain code quality in the long run.
